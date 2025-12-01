@@ -13,14 +13,14 @@
 
 ## 📌 B. 대규모 트래픽 / 성능 핵심 개념
 
-- [ ] 병목(Bottleneck) 분석 원리 및 대표 도구 파악
-- [ ] Scale-up / Scale-out 차이와 의사결정 기준
-- [ ] 캐싱 전략(Cache-aside / Write-through / Write-back) 장단점
-- [ ] CDN 개념과 캐시 무효화 전략
-- [ ] CQRS 구조와 읽기/쓰기 분리 사례
-- [ ] 이벤트 기반 아키텍처(Event-driven Architecture) 적용 포인트
-- [ ] Backpressure & Queueing Theory 기초 개념
-- [ ] 데이터베이스 쿼리 최적화, 비동기/배치 처리, 커넥션 풀, 메모리·GC 튜닝 점검
+- [x] [병목(Bottleneck) 분석 원리 및 대표 도구 파악](B_대규모_트래픽_성능/병목_분석.md)
+- [x] [Scale-up / Scale-out 차이와 의사결정 기준](B_대규모_트래픽_성능/스케일전략.md)
+- [x] [캐싱 전략(Cache-aside / Write-through / Write-back) 장단점](B_대규모_트래픽_성능/캐싱_전략.md)
+- [x] [CDN 개념과 캐시 무효화 전략](B_대규모_트래픽_성능/CDN_전략.md)
+- [x] [CQRS 구조와 읽기/쓰기 분리 사례](B_대규모_트래픽_성능/CQRS_개념.md)
+- [x] [이벤트 기반 아키텍처(Event-driven Architecture) 적용 포인트](B_대규모_트래픽_성능/이벤트_기반_아키텍처.md)
+- [x] [Backpressure & Queueing Theory 기초 개념](B_대규모_트래픽_성능/Backpressure_Queueing.md)
+- [x] [데이터베이스 쿼리 최적화, 비동기/배치 처리, 커넥션 풀, 메모리·GC 튜닝 점검](B_대규모_트래픽_성능/전반적_퍼포먼스_튜닝.md)
 
 ## 📌 C. 데이터베이스 설계·운영 개념
 
